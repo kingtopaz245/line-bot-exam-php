@@ -1,2 +1,2 @@
 <?php
-echo "Hello TEST";
+echo "สวัสดีครับ Line เป็นการทดสอบ Chat";
